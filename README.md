@@ -1,7 +1,7 @@
 # Introduction
 
 #
-## Sample list of AI / Machine Learning projects using Python
+## Some examples of AI / Machine Learning projects using Python
 
 Decision Trees
 <br>
