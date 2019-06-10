@@ -9,7 +9,7 @@
 5. Feature Importance
 <br>
 https://github.com/smtexas99/dtree/blob/master/dtree.ipynb
-<br><br>
+<br></br>
 ## Random Forests with Grid Search
 1. Exploratory Data Analysis
 2. Feature Engineering
