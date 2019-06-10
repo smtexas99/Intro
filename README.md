@@ -4,6 +4,7 @@
 ## Some examples of AI / Machine Learning projects using Python
 
 Decision Trees
+
 1. Exploratory Data Analysis
 2. Data Visualization
 3. Modelling
