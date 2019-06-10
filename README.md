@@ -5,6 +5,7 @@
 
 Decision Trees
 1. Exploratory Data Analysis
+2. Data Visualization
 2. Feature Engineering
 3. Feature Ranking & Selection
 4. Modelling
