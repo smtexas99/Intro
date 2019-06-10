@@ -6,10 +6,9 @@
 Decision Trees
 1. Exploratory Data Analysis
 2. Data Visualization
-2. Feature Engineering
-3. Feature Ranking & Selection
-4. Modelling
-5. Grid Search
+3. Modelling
+4. Confusion Matrix
+5. Feature Importance
 
 https://github.com/smtexas99/dtree/blob/master/dtree.ipynb
 <br><br>
