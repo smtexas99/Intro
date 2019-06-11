@@ -21,7 +21,7 @@ https://github.com/smtexas99/PROJECT-3/blob/master/random_forest_pair_solution-g
 <br></br>
 ## Deep Learning
 
-https://github.com/smtexas99/mnist_cnn/blob/master/MNIST-CNN.ipynb
+https://github.com/smtexas99/mnist_cnn/blob/mnist_cnn_brief/MNIST-CNN.ipynb
 
 <br></br>
 ## Natural Language Processing (NLP/NLTK)
