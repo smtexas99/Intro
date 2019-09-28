@@ -21,7 +21,7 @@ Includes: Exploratory Data Analysis, Feature Engineering, Feature Ranking & Sele
 ### 4. Predicting Forged Bank Notes: 
 ###     https://github.com/smtexas99/bank_notes
 Using:
-  ### - Desicion Trees
+  ### - Decision Trees
   ### - Logistic Regression
   ### - Cluster Analysis
 Includes: Exploratory Data Analysis, Data Visualization (3D visuals), Models, Confusion Matrix, Feature Importance
