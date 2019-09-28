@@ -2,6 +2,7 @@
 ## Examples of AI / Machine Learning projects
 
 ### 1. Identifying Windows PC Malware
+###     https://github.com/smtexas99/malware_detection
 Intro for Absolute Beginners Using:
 ###    - XGBoost
 ###    - LightGBM
