@@ -3,9 +3,9 @@
 
 ### 1. Identifying Windows PC Malware
 Intro for Absolute Beginners Using:
-  ### <li>  XGBoost</li>
-  ### <li> LightGBM</li>
-  ### <li> Deep Learning</li>
+  ###   <li>  XGBoost</li>
+  ###   <li> LightGBM</li>
+  ###   <li> Deep Learning</li>
 
 <br></br>
 ### 2. Identifying Written Digits using Deep Learning
