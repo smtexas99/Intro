@@ -1,6 +1,5 @@
 
-# Some examples of AI / Machine Learning projects using Python
-
+# Some examples of AI / Machine Learning projects
 ## Identifying Forged Bank Notes using:
 
 1. <b>Desicion Trees</b>
