@@ -19,7 +19,7 @@ Using:
 ###    - Random Forests
 ###    - Logistic Regression
 ###    - Decision Trees
-###    - K Nearest Neighbors
+###    - <i>k</i>-Nearest Neighbors (<i>k</i>NN)
 ###    - Naive Bayes
 Includes: Exploratory Data Analysis, Feature Engineering, Feature Ranking & Selection, Models, Grid Search
 
