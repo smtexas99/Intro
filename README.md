@@ -1,7 +1,8 @@
 
 ## Some examples of AI / Machine Learning projects
 
-### Identifying Written Digits using <b>Deep Learning (CNN/MLP)</b>: https://github.com/smtexas99/mnist_cnn
+### Identifying Written Digits using Deep Learning (CNN/MLP): 
+### https://github.com/smtexas99/mnist_cnn
 
 
 ### Predicting Customer Churn using Random Forests: 
