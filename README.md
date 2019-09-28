@@ -5,14 +5,15 @@
 
 1. <b>Desicion Trees</b>
 
-2. Logistic Regression
+2. <b>Logistic Regression</b>
 
-3. Cluster Analysis
+3. <b>Cluster Analysis</b>
 
 Includes: Exploratory Data Analysis, Data Visualization (3D visuals), Models, Confusion Matrix,Feature Importance
 
 https://github.com/smtexas99/bank_notes
 <br></br>
+
 ## Random Forests with Grid Search
 1. Exploratory Data Analysis
 2. Feature Engineering
