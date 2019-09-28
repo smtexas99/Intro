@@ -6,12 +6,7 @@ Identifying Forged Bank Notes using:
 2. Logistic Regression
 3. Cluster Analysis
 
-Includes:
-a. Exploratory Data Analysis
-b. Data Visualization
-c. Modelling
-d. Confusion Matrix
-e. Feature Importance
+Includes: Exploratory Data Analysis, Data Visualization (3D visuals), Models, Confusion Matrix,Feature Importance
 
 https://github.com/smtexas99/bank_notes
 <br></br>
