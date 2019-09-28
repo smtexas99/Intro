@@ -13,6 +13,7 @@ Intro for Absolute Beginners Using:
 Includes: Exploratory Data Analysis, Feature Engineering, Models
 <br></br>
 ### 3. Predicting Customer Churn
+###     https://github.com/smtexas99/customer_churn
 Using:
 ###    - Random Forests
 ###    - Logistic Regression
