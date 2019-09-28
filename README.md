@@ -7,7 +7,7 @@ Using:
 ### 2. LightGBM
 ### 3. Deep Learning
 Includes: Exploratory Data Analysis, Feature Engineering, Feature Ranking & Selection, Models, Grid Search
-
+<br></br>
 ### Identifying Written Digits using Deep Learning: 
 ### https://github.com/smtexas99/mnist_cnn
 
