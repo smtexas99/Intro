@@ -4,14 +4,15 @@
 ### Identifying Written Digits using Deep Learning (CNN/MLP): 
 ### https://github.com/smtexas99/mnist_cnn
 
-
+<br></br>
 ### Predicting Customer Churn using Random Forests: 
 
 Includes: Exploratory Data Analysis, Feature Engineering, Feature Ranking & Selection, Models, Grid Search
 
 <br></br>
 
-### Predicting Forged Bank Notes: https://github.com/smtexas99/bank_notes
+### Predicting Forged Bank Notes: 
+### https://github.com/smtexas99/bank_notes
 
 Using:
 
