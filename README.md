@@ -7,7 +7,6 @@ Intro for Absolute Beginners Using:
 ###    - XGBoost
 ###    - LightGBM
 ###    - Deep Learning
-
 <br></br>
 ### 2. Identifying Written Digits (0-9) using Deep Learning
 ###     https://github.com/smtexas99/mnist_cnn
@@ -22,9 +21,7 @@ Using:
 ###    - <i>k</i>-Nearest Neighbors (<i>k</i>-NN)
 ###    - Naive-Bayes
 Includes: Exploratory Data Analysis, Feature Engineering, Feature Ranking & Selection, Models, Grid Search
-
 <br></br>
-
 ### 4. Predicting Forged Bank Notes
 ###     https://github.com/smtexas99/bank_notes
 Using:
@@ -32,4 +29,4 @@ Using:
   ###   - Logistic Regression
   ###   - Cluster Analysis
 Includes: Exploratory Data Analysis, Data Visualization (3D visuals), Models, Confusion Matrix, Feature Importance
-<br></br>
+
