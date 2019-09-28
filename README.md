@@ -12,15 +12,15 @@ Includes: Exploratory Data Analysis, Feature Engineering, Feature Ranking & Sele
 
 <br></br>
 
-## Predicting Forged Bank Notes: https://github.com/smtexas99/bank_notes
+### Predicting Forged Bank Notes: https://github.com/smtexas99/bank_notes
 
 Using:
 
-## 1. <b>Desicion Trees</b>
+### 1. <b>Desicion Trees</b>
 
-## 2. <b>Logistic Regression</b>
+### 2. <b>Logistic Regression</b>
 
-## 3. <b>Cluster Analysis</b>
+### 3. <b>Cluster Analysis</b>
 
 Includes: Exploratory Data Analysis, Data Visualization (3D visuals), Models, Confusion Matrix, Feature Importance
 
@@ -29,5 +29,5 @@ Includes: Exploratory Data Analysis, Data Visualization (3D visuals), Models, Co
 
 
 <br></br>
-## Natural Language Processing (NLP/NLTK)
+### Natural Language Processing (NLP/NLTK)
 
