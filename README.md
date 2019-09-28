@@ -8,7 +8,7 @@ Intro for Absolute Beginners Using:
 ###    - Deep Learning
 
 <br></br>
-### 2. Identifying Written Digits using Deep Learning
+### 2. Identifying Written Digits (0-9) using Deep Learning
 ###     https://github.com/smtexas99/mnist_cnn
 Includes: Exploratory Data Analysis, Feature Engineering, Models
 <br></br>
