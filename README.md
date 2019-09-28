@@ -10,9 +10,9 @@ Intro for Absolute Beginners Using:
 <br></br>
 ### 2. Identifying Written Digits using Deep Learning: 
 ###     https://github.com/smtexas99/mnist_cnn
-
+Includes: Exploratory Data Analysis, Feature Engineering, Models
 <br></br>
-### 3. Predicting Customer Churn using <i>Random Forests</i>: 
+### 3. Predicting Customer Churn using Random Forests: 
 
 Includes: Exploratory Data Analysis, Feature Engineering, Feature Ranking & Selection, Models, Grid Search
 
