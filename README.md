@@ -1,9 +1,11 @@
 
 # Some examples of AI / Machine Learning projects using Python
 
-Identifying Forged Bank Notes using:
-1. Desicion Trees
+##Identifying Forged Bank Notes using:
+1. <b>Desicion Trees</b>
+
 2. Logistic Regression
+
 3. Cluster Analysis
 
 Includes: Exploratory Data Analysis, Data Visualization (3D visuals), Models, Confusion Matrix,Feature Importance
