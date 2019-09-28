@@ -12,7 +12,7 @@ Includes: Exploratory Data Analysis, Feature Engineering, Feature Ranking & Sele
 
 <br></br>
 
-## Predicting Forged Bank Notes
+## Predicting Forged Bank Notes: https://github.com/smtexas99/bank_notes
 
 Using:
 
@@ -24,7 +24,7 @@ Using:
 
 Includes: Exploratory Data Analysis, Data Visualization (3D visuals), Models, Confusion Matrix, Feature Importance
 
-https://github.com/smtexas99/bank_notes
+
 <br></br>
 
 
