@@ -17,7 +17,7 @@ Includes: Exploratory Data Analysis, Feature Engineering, Models
 Using:
 ###    - Random Forests
 ###    - Logistic Regression
-###    - Decision Tree
+###    - Decision Trees
 ###    - K Nearest Neighbors
 ###    - Naive Bayes
 Includes: Exploratory Data Analysis, Feature Engineering, Feature Ranking & Selection, Models, Grid Search
