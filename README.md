@@ -1,7 +1,14 @@
 
 ## Some examples of AI / Machine Learning projects
 
-### Identifying Written Digits using Deep Learning (CNN/MLP): 
+### Identifying Malware:
+Using:
+### 1. XGBoost
+### 2. LightGBM
+### 3. Deep Learning
+Includes: Exploratory Data Analysis, Feature Engineering, Feature Ranking & Selection, Models, Grid Search
+
+### Identifying Written Digits using Deep Learning: 
 ### https://github.com/smtexas99/mnist_cnn
 
 <br></br>
