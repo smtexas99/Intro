@@ -1,18 +1,18 @@
 
 ## Examples of AI / Machine Learning projects
 
-### 1. Identifying Malware:
-Using:
+### 1. Identifying Windows PC Malware:
+Intro for Absolute Beginners Using:
   ### - XGBoost
   ### - LightGBM
   ### - Deep Learning
-Includes: Exploratory Data Analysis, Feature Engineering, Feature Ranking & Selection, Models, Grid Search
+
 <br></br>
 ### 2. Identifying Written Digits using Deep Learning: 
 ###     https://github.com/smtexas99/mnist_cnn
 
 <br></br>
-### 3. Predicting Customer Churn using Random Forests: 
+### 3. Predicting Customer Churn using <i>Random Forests</i>: 
 
 Includes: Exploratory Data Analysis, Feature Engineering, Feature Ranking & Selection, Models, Grid Search
 
