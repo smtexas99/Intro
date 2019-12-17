@@ -29,3 +29,8 @@ Using:
   ###   - Logistic Regression
   ###   - Cluster Analysis
 Includes: Exploratory Data Analysis, Data Visualization (3D visuals), Models, Confusion Matrix, Feature Importance
+
+<br></br>
+### 5. Working with Image Files
+### 
+https://github.com/smtexas99/image_manipulation
