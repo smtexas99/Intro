@@ -37,7 +37,7 @@ Includes: Image visualization in Jupyter, Vectorizing the Image, Converting to G
 
 ### 6. US Labor Force Forecast
 ### https://github.com/smtexas99/labor
-Includes: Time Series Forecasting, ARIMA, Visualizations
+Includes: Time Series Forecasting, ARIMA with Seasonality, Visualizations
 <br></br>
 
 ### 7. CO₂ Concentration (parts per million) Forecasting
