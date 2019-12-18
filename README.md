@@ -33,3 +33,7 @@ Includes: Exploratory Data Analysis, Data Visualization (3D visuals), Models, Co
 ### 5. Working with Image Files
 ###    https://github.com/smtexas99/image_manipulation
 Includes: Image visualization in Jupyter, Vectorizing the Image, Converting to Greyscale and Image resizing
+<br></br>
+### 6. CO₂ Concentration (parts per million) Forecasting
+###    https://github.com/smtexas99/time_series
+Includes: Time Series Forecasting, ARIMA, Visualizations
