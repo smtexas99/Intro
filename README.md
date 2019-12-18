@@ -32,7 +32,7 @@ Includes: Exploratory Data Analysis, Data Visualization (3D visuals), Models, Co
 <br></br>
 ### 5. Working with Image Files
 ###    https://github.com/smtexas99/image_manipulation
-Includes: Image visualization in Jupyter, Vectorizing the Image, Converting to Greyscale and Image resizing
+Includes: Image visualization in Jupyter, Image Vectorization, Greyscale Conversion and Image resizing
 <br></br>
 
 ### 6. US Labor Force Forecast
