@@ -35,7 +35,7 @@ Includes: Exploratory Data Analysis, Data Visualization (3D visuals), Models, Co
 Includes: Image visualization in Jupyter, Vectorizing the Image, Converting to Greyscale and Image resizing
 <br></br>
 
-### 8. US Labor Force Forecast
+### 6. US Labor Force Forecast
 ### https://github.com/smtexas99/labor
 Includes: Time Series Forecasting, ARIMA, Visualizations
 <br></br>
