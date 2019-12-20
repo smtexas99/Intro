@@ -30,16 +30,22 @@ Using:
   ###   - Cluster Analysis
 Includes: Exploratory Data Analysis, Data Visualization (3D visuals), Models, Confusion Matrix, Feature Importance
 <br></br>
-### 5. Working with Image Files
+### 5. Predicting Balances
+###     https://github.com/smtexas99/balance/blob/master/balance.ipynb
+Using:
+  ###   - Linear Regression (Statsmodels Ordinary Least Squares)
+Includes: Exploratory Data Analysis, Data Visualization, Models, Summary Reports which are similar to SAS PROC REG
+<br></br>
+### 6. Working with Image Files
 ###    https://github.com/smtexas99/image_manipulation
 Includes: Image visualization in Jupyter, Conversion of JPEG into Arrays, Greyscale Conversion and Image resizing
 <br></br>
 
-### 6. US Labor Force Forecast
+### 7. US Labor Force Forecast
 ### https://github.com/smtexas99/labor
 Includes: Time Series Forecasting, ARIMA with Seasonality, Visualizations
 <br></br>
 
-### 7. CO₂ Concentration (parts per million) Forecasting
+### 8. CO₂ Concentration (parts per million) Forecasting
 ###    https://github.com/smtexas99/time_series
 Includes: Time Series Forecasting, ARIMA, Visualizations
