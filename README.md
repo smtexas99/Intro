@@ -36,16 +36,23 @@ Using:
   ###   - Linear Regression (Statsmodels Ordinary Least Squares)
 Includes: Exploratory Data Analysis, Data Visualization, Models, Summary Reports which are similar to SAS PROC REG
 <br></br>
-### 6. Working with Image Files
+### 6. U.S. Constitution, A Text Analysis
+###    https://github.com/smtexas99/us_constitution/blob/master/constitution.ipynb
+Using:
+  ###   - NLTK
+  ###   - TextBlob
+Includes: Tokenization, Parts of Speech, Sentiment Analysis, Subjectivity, Visualizations
+<br></br>
+### 7. Working with Image Files
 ###    https://github.com/smtexas99/image_manipulation
 Includes: Image visualization in Jupyter, Conversion of JPEG into Arrays, Greyscale Conversion and Image resizing
 <br></br>
 
-### 7. US Labor Force Forecast
+### 8. US Labor Force Forecast
 ###    https://github.com/smtexas99/labor
 Includes: Time Series Forecasting, ARIMA with Seasonality, Visualizations
 <br></br>
 
-### 8. CO₂ Concentration (parts per million) Forecasting
+### 9. CO₂ Concentration (parts per million) Forecasting
 ###    https://github.com/smtexas99/co2_concentration
 Includes: Time Series Forecasting, ARIMA, Visualizations
