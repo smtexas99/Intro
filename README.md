@@ -7,6 +7,14 @@ Intro for Absolute Beginners Using:
 ###    - XGBoost
 ###    - LightGBM
 ###    - Deep Learning (Keras/Tensorflow)
+
+Tensorflow 2.0 (Jupyter Notebook)
+### https://github.com/smtexas99/malware_detection/blob/master/TF2_MAL.ipynb
+Includes:
+###    - Tensorflow 2.0 Algorithms
+###    - Hyperparameter Tuning
+###    - Tensorboard Visualization
+###    - Saving the best model
 <br></br>
 ### 2. Identifying Written Digits (0-9) using Deep Learning
 ###     https://github.com/smtexas99/mnist_cnn
