@@ -57,10 +57,10 @@ Includes: Image visualization in Jupyter, Conversion of JPEG into Arrays, Greysc
 <br></br>
 
 ### 8. US Labor Force Forecast
-###    https://github.com/smtexas99/labor
+###    https://github.com/smtexas99/labor/blob/master/time_series.ipynb
 Includes: Time Series Forecasting, ARIMA with Seasonality, Visualizations
 <br></br>
 
 ### 9. CO₂ Concentration (parts per million) Forecasting
-###    https://github.com/smtexas99/co2_concentration
+###    https://github.com/smtexas99/co2_concentration/blob/master/time_series.ipynb
 Includes: Time Series Forecasting, ARIMA, Visualizations
