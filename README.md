@@ -2,7 +2,7 @@
 ## AI / Machine Learning Applications
 
 ### 1. Identifying Windows PC Malware
-###     https://github.com/smtexas99/malware_detection
+###     https://github.com/smtexas99/malware_detection/blob/master/Malware.ipynb
 Intro for Absolute Beginners Using:
 ###    - XGBoost
 ###    - LightGBM
