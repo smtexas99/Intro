@@ -12,7 +12,7 @@ Tensorflow 2.0 (Jupyter Notebook)
 ### https://github.com/smtexas99/malware_detection/blob/master/TF2_MAL.ipynb
 Includes:
 ###    - Tensorflow 2.0 Algorithms
-###    - Hyperparameter Tuning
+###    - Tuning Hyperparameters
 ###    - Tensorboard Visualization
 ###    - Saving the best model
 <br></br>
