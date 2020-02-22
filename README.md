@@ -5,12 +5,12 @@
 
 ###     https://github.com/smtexas99/ncov19/blob/master/covid19.ipynb
 Using: Matplotlib, Pandas, NumPy, SciPy & Data sourced from GitHub using https 
-###    - Breakdown by Country/Region/City (for the US)
-###    - Highlights TX and US cases
+####    - Highlights TX and US cases
+####    - Global View with Regional Breakdowns
 
 ###     https://github.com/smtexas99/ncov19/blob/master/ncov2019.ipynb
 Using: SciPy, Matplotlib, Pandas, NumPy 
-###    - China vs. Rest of the World   
+####    - China vs. Rest of the World   
 Note: No longer updated on a daily basis due to changing definitions used by Chinese reporting agencies
 
 ## AI / Machine Learning Applications
