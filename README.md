@@ -6,6 +6,7 @@
 ###     https://github.com/smtexas99/ncov19/blob/master/covid19.ipynb
 Using: Webdata 
 ###    - Breakdown by Country/Region/City (for the US)
+###    - Highlights TX and US cases
 
 ###     https://github.com/smtexas99/ncov19/blob/master/ncov2019.ipynb
 Using: SciPy 
