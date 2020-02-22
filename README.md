@@ -3,9 +3,14 @@
 ## nCoV-2019
 ### Identifying the trends in Infections, Recoveries and other critical metrics for the Novel Corona Virus
 
+###     https://github.com/smtexas99/ncov19/blob/master/covid19.ipynb
+Using: Webdata 
+###    - Breakdown by Country/Region/City (for the US)
+
 ###     https://github.com/smtexas99/ncov19/blob/master/ncov2019.ipynb
 Using: SciPy 
-###    
+###    - China vs. Rest of the World   
+Note: No longer updated on a daily basis due to changing definitions used by Chinese reporting agencies
 
 ## AI / Machine Learning Applications
 
