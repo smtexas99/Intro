@@ -4,7 +4,7 @@
 ### Identifying the trends in Infections, Recoveries and other critical metrics for the Novel Corona Virus
 
 ###     https://github.com/smtexas99/ncov19/blob/master/covid19.ipynb
-Using: Matplotlib, Pandas, NumPy, SciPy & Data sourced from GitHub using https 
+Using: Matplotlib, Pandas, NumPy, SciPy & Data sourced from JHU CSSE GitHub using https 
 ####    - Highlights TX and US cases
 ####    - Global View with Regional Breakdowns
 
