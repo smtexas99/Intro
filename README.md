@@ -4,12 +4,12 @@
 ### Identifying the trends in Infections, Recoveries and other critical metrics for the Novel Corona Virus
 
 ###     https://github.com/smtexas99/ncov19/blob/master/covid19.ipynb
-Using: Webdata 
+Using: Matplotlib, Pandas, NumPy, SciPy & Data sourced from GitHub using https 
 ###    - Breakdown by Country/Region/City (for the US)
 ###    - Highlights TX and US cases
 
 ###     https://github.com/smtexas99/ncov19/blob/master/ncov2019.ipynb
-Using: SciPy 
+Using: SciPy, Matplotlib, Pandas, NumPy 
 ###    - China vs. Rest of the World   
 Note: No longer updated on a daily basis due to changing definitions used by Chinese reporting agencies
 
