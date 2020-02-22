@@ -1,6 +1,6 @@
 
 ## Current Topic of Interest in Global Healthcare: 
-## nCoV-2019
+## Covid-19 / nCoV-2019
 ### Identifying the trends in Infections, Recoveries and other critical metrics for the Novel Corona Virus
 
 ###     https://github.com/smtexas99/ncov19/blob/master/covid19.ipynb
