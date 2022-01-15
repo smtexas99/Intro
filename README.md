@@ -1,6 +1,15 @@
 
 ## Current Topic of Interest in Global Healthcare: 
-## Covid-19 / nCoV-2019
+## Covid-19 
+
+
+### Identifying the trends in Pediatric COVID-19 Hospital Hospitalizations & Available Pediatric ICUs
+####   - DFW, Houston, San Antonio, Austin, El Paso
+
+###     https://github.com/smtexas99/ncov19/blob/master/TX_Pediactric.ipynb
+Using: Matplotlib, Pandas, NumPy, SciPy & Data sourced from TEXAS DHS using https 
+
+
 ### Identifying the trends in Infections, Recoveries and other critical metrics for the Novel Corona Virus
 
 ###     https://github.com/smtexas99/ncov19/blob/master/covid19us.ipynb
